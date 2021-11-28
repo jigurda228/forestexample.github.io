@@ -16,7 +16,7 @@ html, body, main {
 
 .first {
 	height: 100%;
-	background-image: url(img/img1.jpg);
+	background-image: url(img1.jpg);
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -138,7 +138,7 @@ img {
 	flex-direction: column;
 	height: 300px;
 	padding: 0 25%;
-	background-image: url(img/img5.jpg);
+	background-image: url(img5.jpg);
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
