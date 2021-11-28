@@ -160,3 +160,6 @@ img {
 	line-height: 1.5;
 	letter-spacing: 1px;
 }
+a{
+	text-decoration: none;
+}
